@@ -6,6 +6,3 @@ services:
 - name: opensmtpd
   title: OpenSMTPD
   service: opensmtpd
-  volumes:
-  - name: spool
-    size: 5
