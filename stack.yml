@@ -1,0 +1,11 @@
+name: opensmtpd
+title: OpenSMTPD
+icon: opensmtpd
+
+services:
+- name: opensmtpd
+  title: OpenSMTPD
+  service: opensmtpd
+  volumes:
+  - name: data
+    size: 5
