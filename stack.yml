@@ -7,5 +7,5 @@ services:
   title: OpenSMTPD
   service: opensmtpd
   volumes:
-  - name: data
+  - name: spool
     size: 5
