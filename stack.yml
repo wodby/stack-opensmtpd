@@ -1,6 +1,7 @@
 name: opensmtpd
 title: OpenSMTPD
 icon: opensmtpd
+docs: https://wodby.com/docs/2.0/stacks/catalog/opensmtpd/
 
 services:
 - name: opensmtpd
